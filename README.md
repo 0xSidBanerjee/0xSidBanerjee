@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I’m Siddhanta!
+A “visionary” deep learning disruptor coding on my sticker-covered MacBook in SF cafés. I overengineer ML models to “pivot paradigms” while sipping oat milk lattes and pretending to grok Kubernetes. Let’s build a unicorn—or at least a pitch deck.
 
-<!--
-**0xSidBanerjee/0xSidBanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# "Experience"
+Supreme Overlord of Neural Hyper-Synergy at the Foundation for Infinite Scalability. Former Chief Jargon Generator at StartUpHypeCorp, where I “disrupted the status quo” by pushing to prod on Fridays.
 
-Here are some ideas to get you started:
+# Currently Building
+- NeuralHypeNet: AI that generates buzzwords faster than a VC.
+- JiraSlayer: Bot to auto-close tickets and skip standups.
+- EspressoOptimizer: Microservice for peak latte frothiness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Fun Fact
+If “disruptive innovation” trends on GitHub, I’ll switch to TempleOS and go full digital monk (or maybe just Fedora).
