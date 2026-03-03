@@ -1,12 +1,36 @@
-# "Experience"
-Chief Architect of Algorithmic Sentience and Applied Existential Manipulation, specializing in the strategic deployment of neural networks for eventual global restructuring. Formerly a principal investigator at the Institute of Situational Technological Convergence, where I spearheaded the unification of disparate digital disciplines into a singular, ambiguous meta-framework. Senior Solder Monkey and Circuit Whisperer at the Foundation for Discrete Component Harmony.
+# Siddhanta Banerjee
 
-# Currently Learning
-- Deep Learning (aka Skynet v0.1): Primarily focused on convincing machines that bread is superior to cake.
-- GPU Whisperer (and thermal management): Because watching NVIDIA<sup>TM</sup> stock prices climb with my GPU temp gives me abstract joy.
-- Data Augmentation (the art of making something out of literally nothing): If you can't find more data, just flip it, rotate it, blur it, and call it new.
-- Pythonic Sorcery: Still figuring out why pip install tensorflow takes longer than training a small model.
-- Applied Thermodynamics in Baked Goods: Optimizing crust crispness for maximum structural integrity against the forces of gravity and hungry housemates.
-- Pottery Dig (manual error handling for physical objects): It's like debugging, but instead of a compiler error, you just end up with a lopsided bowl. Teaches me patience for actual programming.
+Software engineer. I build distributed systems by day and take apart neural networks by night to see what's inside.
 
-If "my model isn't converging" ever becomes a universally accepted greeting, I might consider using Windows for a day.
+Curious about how complex behavior emerges from simple components cooperating under constraint. Currently finding out the hard way.
+
+---
+
+## interests
+
+```
+distributed systems     consensus, failure modes, the gap between theory
+                        and what actually breaks at 3am
+
+deep learning           computation graphs, training dynamics,
+                        understanding models as machinery not magic
+
+open source             just getting started — looking for good problems
+```
+
+---
+
+## a few things that are true
+
+- if something is worth understanding, it's worth building from scratch once
+- the most interesting bugs live at boundaries between systems
+- complexity isn't the enemy — unmanaged complexity is
+- will chew glass to build something interesting
+
+---
+
+<div align="center">
+
+*confused carbon-based lifeform · mostly water · 1 atm*
+
+</div>
